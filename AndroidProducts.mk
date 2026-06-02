@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/halcyon_spes.mk
+    $(LOCAL_DIR)/custom_spes.mk
 
 COMMON_LUNCH_CHOICES := \
-    halcyon_spes-user \
-    halcyon_spes-userdebug \
-    halcyon_spes-eng
+    custom_spes-user \
+    custom_spes-userdebug \
+    custom_spes-eng
